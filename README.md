@@ -9,11 +9,8 @@
 大綱:
 
 + Python 簡介
-
 + 視窗設計 - tkinter 套件
-
 + Arduino 簡介
-
 + Python + Arduino - LED 實作
 
 檔名: python_arduino-2021.05.28.pdf
@@ -29,16 +26,20 @@
 
 檔名: python_tkinter.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_tkinter_led.py]
 
-3. 操作 Arduino car + 光敏電阻主程式
+3. Python + Arduino - LED 實作
 
-檔名: arduino_car_light.ino
-[https://github.com/rwepa/arduino_car/blob/main/arduino_car_light.ino]
+## 範例1 Arduino + LED
 
-4. 操作影片
+準備工具: Arduino 板子, LED, 電阻 1KΩ, 接線, 麵包板.
+
+檔名: arduino_led.ino
+[https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino_led.ino]
+
+操作影片
 
 [![Arduino car](https://github.com/rwepa/arduino_car/blob/main/imgs/arduino_car_youtube.png)](https://youtu.be/SXyq6urlTQo")
 
-youtube: [https://youtu.be/SXyq6urlTQo]
+youtube: [https://youtu.be/9nDX06hpkXM]
 
 5. 操作 Arduino car + 光敏電阻操作說明 PDF
 
