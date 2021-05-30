@@ -57,7 +57,7 @@ youtube: [https://youtu.be/9nDX06hpkXM]
 
 操作影片
 
-[![python + arduino + led 應用-使用 pyfirmata 套件](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/python_arduino_led_youtube.png](https://youtu.be/YGpsoZ5n_Tg)
+[![python + arduino + led 應用-使用 pyfirmata 套件](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/python_arduino_led_youtube.png)](https://youtu.be/YGpsoZ5n_Tg)
 
 youtube: [https://youtu.be/YGpsoZ5n_Tg]
 
