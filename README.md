@@ -51,6 +51,33 @@ youtube: [https://youtu.be/9nDX06hpkXM]
 
 + 使用 pyfirmata 套件可以將 Python 與 Arduino 連結
 
++ 安裝 pySerial 套件
+
+方法1: conda install pyfirmata
+
+方法2: pip install pyfirmata
+
+檔名: python_arduino_led.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino_led.py]
+
+操作影片
+
+[![python + arduino + led 應用-使用 pyfirmata 套件](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/python_arduino_led_youtube.png)](https://youtu.be/YGpsoZ5n_Tg)
+
+youtube: [https://youtu.be/YGpsoZ5n_Tg]
+
+### 範例4 Arduino + Python- pySerial 套件
+
++ 使用 pySerial 套件可以將 Python 與 Arduino 連結
+
++ 安裝 pySerial 套件
+
+方法1: conda install pySerial
+
+方法2: pip install pySerial
+
+檔名: DigitalReadSerial.ino, Arduino IDE 內建範例 [檔案 \ 範例 \ 01.Basics \ DigitalReadSerial], 驗證 --> 上傳 
+
+
 檔名: python_arduino_led.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino_led.py]
 
 操作影片
