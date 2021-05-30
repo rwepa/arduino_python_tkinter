@@ -100,3 +100,6 @@ youtube: [https://youtu.be/LjgFIm1S7tw]
 3. NARESH KUMAR T & THILEEPAN S, Arduino + Python Programming for Robots, 2020.
 4. tkinter - Python interface to Tcl/Tk, https://docs.python.org/3/library/tkinter.html
 5. Python GUI examples (Tkinter Tutorial), https://likegeeks.com/python-gui-examples-tkinter-tutorial/
+
+### 參考網址
+RWEPA [http://rwepa.blogspot.com/2021/05/arduino-python-tkinter-led.html]
