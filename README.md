@@ -30,10 +30,9 @@
 
 ## 範例1 Arduino + LED
 
-準備工具: Arduino 板子, LED, 電阻 1KΩ, 接線, 麵包板.
+### 檔名: arduino_led.ino [https://github.com/rwepa/arduino_python_tkinter/blob/main/arduino_led.ino]
 
-檔名: arduino_led.ino
-[https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino_led.ino]
+準備工具: Arduino 板子, LED, 電阻 1KΩ, 接線, 麵包板.
 
 操作影片
 
