@@ -42,9 +42,11 @@ youtube: [https://youtu.be/9nDX06hpkXM]
 
 ## 範例2 Arduino – Firmata
 
-### 檔名: StandardFimata.ino
++ Firmata 是一個控制器通訊協定。
++ 使用該協定，可以讓電腦或手持式裝置進行Arduino控制。
+
+### 檔名: StandardFimata.ino, Arduino IDE 內建範例
 
 ### 下載測試程式 firmata_test.exe [http://www.firmata.org/wiki/Main_Page]
 
-+ Firmata 是一個控制器通訊協定。
-+ 使用該協定，可以讓電腦或手持式裝置進行Arduino控制。
+
