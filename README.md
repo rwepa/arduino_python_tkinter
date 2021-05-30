@@ -51,7 +51,7 @@ youtube: [https://youtu.be/9nDX06hpkXM]
 
 + 使用 pyfirmata 套件可以將 Python 與 Arduino 連結
 
-+ 安裝 pySerial 套件
++ 安裝 pyfirmata 套件
 
 方法1: conda install pyfirmata
 
@@ -93,4 +93,10 @@ youtube: [https://youtu.be/YGpsoZ5n_Tg]
 
 youtube: [https://youtu.be/LjgFIm1S7tw]
 
+### 參考資料
 
+1. Python 程式設計-李明昌 免費電子書 - PDF 分享, 220頁, http://rwepa.blogspot.com/2020/02/pythonprogramminglee.html
+2. Python與Arduino, http://andrewpythonarduino.blogspot.com/2018/04/python13-led.html
+3. NARESH KUMAR T & THILEEPAN S, Arduino + Python Programming for Robots, 2020.
+4. tkinter - Python interface to Tcl/Tk, https://docs.python.org/3/library/tkinter.html
+5. Python GUI examples (Tkinter Tutorial), https://likegeeks.com/python-gui-examples-tkinter-tutorial/
