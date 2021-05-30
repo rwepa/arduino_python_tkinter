@@ -4,10 +4,20 @@
 
 包括以下內容:
 
-1. Arduino + 光敏電阻 安裝與系統說明
+1. Python + Arduino 應用說明
 
-檔名: arduino_car_2017.pdf
-[https://github.com/rwepa/arduino_car/blob/main/arduino_car_2017.pdf]
+大綱:
+
+### Python 簡介
+
+### 視窗設計 - tkinter 套件
+
+### Arduino 簡介
+
+### Python + Arduino - LED 實作
+
+檔名: python_arduino-2021.05.28.pdf
+[https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino-2021.05.28.pdf]
 
 2. 操作 Arduino car 主程式
 
