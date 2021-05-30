@@ -8,13 +8,13 @@
 
 大綱:
 
-### Python 簡介
++ Python 簡介
 
-### 視窗設計 - tkinter 套件
++ 視窗設計 - tkinter 套件
 
-### Arduino 簡介
++ Arduino 簡介
 
-### Python + Arduino - LED 實作
++ Python + Arduino - LED 實作
 
 檔名: python_arduino-2021.05.28.pdf
 [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino-2021.05.28.pdf]
