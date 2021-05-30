@@ -43,7 +43,7 @@ youtube: [https://youtu.be/9nDX06hpkXM]
 + Firmata 是一個控制器通訊協定。
 + 使用該協定，可以讓電腦或手持式裝置進行Arduino控制。
 
-檔名: StandardFimata.ino, Arduino IDE 內建範例
+檔名: StandardFimata.ino, Arduino IDE 內建範例, [檔案 \ 範例 \ Fimata\ StandardFimata]], 驗證 --> 上傳 
 
 測試程式 firmata_test.exe [http://www.firmata.org/wiki/Main_Page]
 
@@ -77,13 +77,20 @@ youtube: [https://youtu.be/YGpsoZ5n_Tg]
 
 檔名: DigitalReadSerial.ino, Arduino IDE 內建範例 [檔案 \ 範例 \ 01.Basics \ DigitalReadSerial], 驗證 --> 上傳 
 
+檔名: python_arduino_serial.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino_serial.py]
 
-檔名: python_arduino_led.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino_led.py]
+### 範例5 Arduino + Python - tkinter 套件
+
++ 使用 pySerial, tkinter 套件, 將 Python 與 Arduino 連結
+
+檔名: arduino_tkinter_led.ino [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_tkinter_led.ino]
+
+檔名: python_tkinter_led.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_tkinter_led.py]
 
 操作影片
 
-[![python + arduino + led 應用-使用 pyfirmata 套件](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/python_arduino_led_youtube.png)](https://youtu.be/YGpsoZ5n_Tg)
+[![python + tkinter - LED 應用](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/arduino_tkinter_led_youtube.png)](https://youtu.be/LjgFIm1S7tw)
 
-youtube: [https://youtu.be/YGpsoZ5n_Tg]
+youtube: [https://youtu.be/LjgFIm1S7tw]
 
 
