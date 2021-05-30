@@ -36,7 +36,7 @@
 
 操作影片
 
-[![Arduino car](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/python_arduino_led_youtube.png)](https://youtu.be/9nDX06hpkXM)
+[![Arduino car](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/arduino_led_youtube.png)](https://youtu.be/9nDX06hpkXM)
 
 youtube: [https://youtu.be/9nDX06hpkXM]
 
