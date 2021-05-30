@@ -40,10 +40,11 @@
 
 youtube: [https://youtu.be/9nDX06hpkXM]
 
-5. 操作 Arduino car + 光敏電阻操作說明 PDF
+## 範例2 Arduino – Firmata
 
-https://github.com/rwepa/arduino_car/blob/main/arduino_car_2017.pdf
+### 檔名: StandardFimata.ino
 
-6. RWEPA參考網頁
+### 下載測試程式 firmata_test.exe [http://www.firmata.org/wiki/Main_Page]
 
-http://rwepa.blogspot.com/2021/05/arduino-car.html
++ Firmata 是一個控制器通訊協定。
++ 使用該協定，可以讓電腦或手持式裝置進行Arduino控制。
