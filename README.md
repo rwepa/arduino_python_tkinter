@@ -1,6 +1,6 @@
 ## 本專案說門 Arduino + Python tkinter 套件控制LED應用
 
-![image](https://github.com/rwepa/arduino_car/blob/main/imgs/arduino_car.png)
+![image](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/arduino_tkinter_led.png)
 
 包括以下內容:
 
