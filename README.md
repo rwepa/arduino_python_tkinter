@@ -22,11 +22,10 @@
 2. 視窗設計 - tkinter套件
 
 + ex1 簡單視窗
-
 + ex2 文字與按鈕範例
 + ex3 按鈕事件
-
 + ex4 組合方塊 combobox (下拉式選單)
++ Ex5 滑桿 scale
 
 檔名: python_tkinter.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_tkinter_led.py]
 
