@@ -1,4 +1,4 @@
-## 本專案說門 Arduino + Python tkinter 套件控制LED應用
+## Arduino + Python tkinter 套件控制LED應用
 
 ![image](https://github.com/rwepa/arduino_python_tkinter/blob/main/imgs/arduino_tkinter_led.png)
 
