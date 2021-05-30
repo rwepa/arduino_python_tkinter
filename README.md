@@ -19,10 +19,9 @@
 檔名: python_arduino-2021.05.28.pdf
 [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino-2021.05.28.pdf]
 
-2. 操作 Arduino car 主程式
+2. 視窗設計 - tkinter套件
 
-檔名: arduino_car.ino
-[https://github.com/rwepa/arduino_car/blob/main/arduino_car.ino]
+檔名: python_tkinter.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_tkinter_led.py]
 
 3. 操作 Arduino car + 光敏電阻主程式
 
