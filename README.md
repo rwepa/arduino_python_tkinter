@@ -30,7 +30,7 @@
 
 ## 範例1 Arduino + LED
 
-### 檔名: arduino_led.ino [https://github.com/rwepa/arduino_python_tkinter/blob/main/arduino_led.ino]
+檔名: arduino_led.ino [https://github.com/rwepa/arduino_python_tkinter/blob/main/arduino_led.ino]
 
 準備工具: Arduino 板子, LED, 電阻 1KΩ, 接線, 麵包板.
 
@@ -45,15 +45,15 @@ youtube: [https://youtu.be/9nDX06hpkXM]
 + Firmata 是一個控制器通訊協定。
 + 使用該協定，可以讓電腦或手持式裝置進行Arduino控制。
 
-### 檔名: StandardFimata.ino, Arduino IDE 內建範例
+檔名: StandardFimata.ino, Arduino IDE 內建範例
 
-### 下載測試程式 firmata_test.exe [http://www.firmata.org/wiki/Main_Page]
+下載測試程式 firmata_test.exe [http://www.firmata.org/wiki/Main_Page]
 
 ## 範例3 Arduino + Python- pyfirmata 套件
 
 + 使用 pyfirmata 套件可以將 Python 與 Arduino 連結
 
-### 檔名: python_arduino_led.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino_led.py]
+檔名: python_arduino_led.py [https://github.com/rwepa/arduino_python_tkinter/blob/main/python_arduino_led.py]
 
 操作影片
 
